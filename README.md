@@ -1,1 +1,1 @@
-# SpringCloudConfig
+此目录只为本人测试springcloudconfig功能
